@@ -1,0 +1,10 @@
+C:\Users\Pc\Desktop\CSharpworkspace\246\assignmt\obj\Debug\assignmt.csproj.AssemblyReference.cache
+C:\Users\Pc\Desktop\CSharpworkspace\246\assignmt\obj\Debug\assignmt.Form1.resources
+C:\Users\Pc\Desktop\CSharpworkspace\246\assignmt\obj\Debug\assignmt.Properties.Resources.resources
+C:\Users\Pc\Desktop\CSharpworkspace\246\assignmt\obj\Debug\assignmt.csproj.GenerateResource.cache
+C:\Users\Pc\Desktop\CSharpworkspace\246\assignmt\obj\Debug\assignmt.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Desktop\CSharpworkspace\246\assignmt\bin\Debug\assignmt.exe.config
+C:\Users\Pc\Desktop\CSharpworkspace\246\assignmt\bin\Debug\assignmt.exe
+C:\Users\Pc\Desktop\CSharpworkspace\246\assignmt\bin\Debug\assignmt.pdb
+C:\Users\Pc\Desktop\CSharpworkspace\246\assignmt\obj\Debug\assignmt.exe
+C:\Users\Pc\Desktop\CSharpworkspace\246\assignmt\obj\Debug\assignmt.pdb
